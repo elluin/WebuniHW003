@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675681956324",
+    "project_id": "glutenfreeeating-735e6",
+    "storage_bucket": "glutenfreeeating-735e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675681956324:android:9fef848968945a8c8317f1",
+        "android_client_info": {
+          "package_name": "com.example.webunihw003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675681956324-9qldpau4t2vff7ds6as7sckn6fkogdci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJSn2HZTuZevi78yOI4CE4kQvrls4mFkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675681956324-9qldpau4t2vff7ds6as7sckn6fkogdci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

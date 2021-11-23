@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gluten Free Eating</string>
+    <string name="register">Regisztráció</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Már regisztráltál? Lépj be!</string>
+    <string name="login_signup_hint">Még nincs hozzáférése? Regisztrálj!</string>
+
+</resources>
